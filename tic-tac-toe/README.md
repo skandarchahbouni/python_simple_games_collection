@@ -57,3 +57,6 @@ A simple implementation of the classic Tic-Tac-Toe game using Python and the Tki
 |         |         |
 |---------|---------|
 | ![Image 1](./assets/x_o_1.png) | ![Image 2](./assets/x_o_2.png) |
+
+## 📽️ Demo
+- You can view the demo by following this [link](https://drive.google.com/file/d/1My4nKpG2iNLHN4bnbUGSSurhwH1KBIfI/view?usp=sharing).
