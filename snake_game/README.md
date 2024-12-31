@@ -49,4 +49,4 @@ A simple implementation of the classic Snake game using Python and the Tkinter l
 | ![Image 1](./assets/snake_1.png) | ![Image 2](./assets/snake_2.png) |
 
 ## 📽️ Demo
-- You can view the demo by following this [link](https://drive.google.com/file/d/1MGCUfDa_M2dILiT1QBiox_HyKkcQ5y_y/view?usp=sharing).
+- You can view the demo by following this [link](https://drive.google.com/file/d/1Px8KlthYqNU0XQ7wT2w3ImwHUWN2WgLE/view?usp=sharing).
