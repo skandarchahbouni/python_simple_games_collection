@@ -126,6 +126,7 @@ def game_over():
 # ------- Create the main window
 root = tk.Tk()
 root.title("Snake Game")
+root.resizable(False, False)
 
 canvas = tk.Canvas(root, height=HEIGHT, width=WIDTH, bg="black")
 canvas.pack()
